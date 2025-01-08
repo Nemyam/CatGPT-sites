@@ -11,7 +11,7 @@ This repository contains a collection of sites for CatGPT. Follow the instructio
    {
        "name": "yoursite.rbx",
        "description": "A brief description of your site",
-       "author": "@YourGitHubUsername"
+       "author": "@RobloxUsername"
    }
    ```
 4. Add a `picture.png` file to your site directory
